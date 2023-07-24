@@ -24,3 +24,4 @@ skip_addition:
     
     call print_string ; Print the modified HEX_OUT string
     ret
+HEX_OUT: db '0x0000', 0
